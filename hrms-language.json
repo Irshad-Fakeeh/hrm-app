@@ -63,6 +63,8 @@
   "pip_policy": "PIP Policy",
   "harassment_policy": "Harassment Policy",
 
+  "upcoming_birthday": "Upcoming {month} Birthdays"
+
   "res_address": "Res.Address",
   "contact_no": "Contact No",
   "emergency_no": "Emergency No",
