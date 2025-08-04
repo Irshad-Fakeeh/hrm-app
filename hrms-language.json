@@ -1,44 +1,35 @@
 {
   "slide_title_1": "Hi Folks !!",
   "slide_desc_1": "Your mobile device has quickly become the easiest portal into your digital self, even in your work. View your availed leaves details, leave balances, upcoming Holidays, list of folks not in office today, birthdays and anniversaries list and notification.",
-
   "slide_title_2": "Engage on digital not papers !",
   "slide_desc_2": "On single tap you can apply leaves, view your leave status of approved, rejected or cancelled. Plan your vacation and manage it easily.",
-
   "slide_title_3": "Get Notified !",
   "slide_desc_3": "Make important announcements and optionally send out notifications on the latest announcements to all employee. HRM will get you notified  on real time against self event, manager, and Human resources activities.",
-
   "fakeeh_hrm": "Fakeeh HRM",
   "employee_id": "Employee ID",
   "password": "Password",
   "login": "Login",
-
   "upcoming_holidays": "Upcoming Holidays",
   "applied_leaves": "Applied Leaves",
   "leave_taken": "Leave Taken",
   "balance_leave": "Balance Leave",
-
   "leave_summary": "Leave Summary",
   "leave_type": "Leave Type",
   "leave_availed": "Availed",
   "leave_balance": "Balance",
   "leave_actual": "Actual",
-
   "holidays": "Holidays",
   "birthdays": "Birthdays",
   "who_is_off": "Who's Off",
   "who_is_wfh": "Who's WFH",
-
   "search_employee": "Search Employee",
   "holidays_title": "National and Festive Holidays for the Year",
-
   "date_from": "Date From",
   "date_to": "Date To",
   "request_date": "Request Date",
   "joining_on": "Joining On",
   "reason": "Reason",
   "apply_leave": "Apply Leave",
-
   "leave_policy": "Leave Policy",
   "travel_policy": "Travel Policy",
   "wfh_policy": "Work from home Policy",
@@ -48,7 +39,6 @@
   "email_policy": "Email Policy",
   "it_policy": "IT Policy",
   "source_code_policy": "Source code management Policy",
-
   "id_card": "ID Card",
   "emp_id": "Emp ID: ",
   "since": "Since",
@@ -62,16 +52,13 @@
   "fraud_awareness": "Fraud Awareness",
   "pip_policy": "PIP Policy",
   "harassment_policy": "Harassment Policy",
-
   "upcoming_birthday": "Upcoming {month} Birthdays",
-
   "res_address": "Res.Address",
   "contact_no": "Contact No",
   "emergency_no": "Emergency No",
   "dob": "Date Of Birth",
   "email_id": "Email ID",
   "gender": "Gender",
-
   "network_error_title": "No Internet Connection",
   "network_error_msg": "Please check your connection.",
   "unauthorized_title": "Unauthorized",
@@ -82,22 +69,17 @@
   "server_error_msg": "Something went wrong on our server. Try again later.",
   "unknown_error_title": "Error",
   "unknown_error": "Unknown error occurred.",
-
   "new_password": "New Password",
   "confirm_password": "Confirm Password",
-
   "logout": "Sign out",
   "logout_title": "Sign out?",
   "logout_msg": "We’ll miss you! Do you want to sign out?",
-
   "change_password_success": "Password Changed Successfully",
   "common_error": "Unexpected error. Please try again.",
-
   "company_name": "Fakeeh Technologies Pvt. Ltd",
   "company_address": "Carnival, 13th Floor Technopark, Opposite Nila Building, Technopark Campus,Karyavattom, Trivandrum. Pincode: 695581.",
   "company_email": "info@fakeeh.tech",
   "company_website": "www.fakeeh.tech",
   "company_phone": "0471 4050211",
-
   "leave_types": ["CL", "SL", "PL", "PTL", "BL", "ML", "CO", "WFH", "LOP", "CNL", "PCL", "PSL"]
 }
