@@ -1,0 +1,50 @@
+{
+  "primary": "#009EC3",
+  "secondary": "#C4094A",
+  "white": "#FFFFFF",
+  "black": "#000000",
+
+  "tittle_black": "#0D0D0D",
+  "desc_gray": "#434343",
+  "app_blue": "#00AACC",
+  "light_gray": "#AAAAAA",
+  "background_grey": "#E5E5E5",
+
+  "login_text_blue": "#002452",
+  "error_red": "#BE2813",
+  "error_alert_text": "#F3523B",
+  "error_alert_background": "#FFFDFD",
+
+  "leave_taken": "#F4A7B6",
+  "balance_leave": "#9AC6EF",
+  "dark_gray": "#797979",
+
+  "holiday_name": "#00AACC",
+  "holiday_date": "#0D0D0D",
+  "hint_form_color": "#C6CEDD",
+
+  "primary_color": "#00AACC",
+  "primary_dark_color": "#1B5767",
+  "accent_color": "#C4094A",
+  "light_gray_color": "#AAAAAA",
+  "dark_gray_color": "#434343",
+  "border_light_color": "#E4E4E4",
+  "border_dark_color": "#5E5E5E",
+
+  "green_color": "#32571A",
+  "red_color": "#BE2813",
+  "orange_color": "#EF5931",
+  "pink_color": "#E83E8C",
+  "purple_color": "#6F42C1",
+  "success_color": "#28A745",
+  "info_color": "#17A2B8",
+  "warning_color": "#FFC107",
+  "danger_color": "#DC3545",
+  "light_text_color": "#F8F9FA",
+  "dark_text_color": "#343A40",
+  "cyan_color": "#17A2B8",
+
+  "blue_text_color": "#30A7C8",
+  "light_blue": "#ECF7FA",
+  "custom_red": "#8B1327"
+}
