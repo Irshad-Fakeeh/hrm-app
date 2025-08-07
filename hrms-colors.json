@@ -3,6 +3,7 @@
   "secondary": "#C4094A",
   "white": "#FFFFFF",
   "black": "#000000",
+  "transparent": "#00000000",
 
   "tittle_black": "#0D0D0D",
   "desc_gray": "#434343",
